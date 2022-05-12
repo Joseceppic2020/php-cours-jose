@@ -28,5 +28,22 @@ $sommeNotes = $notes[0] + $notes[1] + $notes[2] + $notes[3];
 $moyenne = $sommeNotes / 4;
 // echo $moyenne;
 
+$tableau[] =34;
+$fruit =('panane' => 'jaune, 'pomme' => 'rouge,
+
+
+$ages = ( 'Michel' =>34, Lucie =>12, Mouloud => 56;),
+$ages = [
+          Michel =>34,
+          Lucie =>12,
+          Mouloud=>56,
+];
+$chaine = implode ('-' $ages);  
+echo $chaine , '<br>';
+$age2 exploide('-',$chaine); 
+print _ r($age2);
+echo'<br>;
+$ages['Paul'
+
 
 echo '</pre>';
